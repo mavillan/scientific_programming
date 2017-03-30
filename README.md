@@ -1,2 +1,2 @@
-# SciComp
-Scientific Computing lectures at UTFSM
+# SciProg
+Scientific Programming in Python lectures at UTFSM
