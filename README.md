@@ -17,13 +17,22 @@ Este repositorio contiene el material (apuntes, notebook y códigos) de la asign
 6. Hacer interfaces en `Python` de bibliotecas en `C` (_Wrapping_).
 
 ## Tópicos
-
+1. Introducción a Anaconda, GIT, Ipython y Jupyter Notebooks.
+2. Computación Numérica (1): Programación vectorizada, NumPy y NumExpr.
+3. Computación Numérica (2): NumPy y manipulación de arrays de gran tamaño.
+4. Visualización: Matplotlib + Ipython Widgets.
+5. Acelerando Python con Numba: y compilación en tiempo real (JIT). 
+6. Acelerando Python con Cython: Escribiendo C en Python. 
+7. _Profiling_ de códigos y optimización.
+8. Aplicaciones: Resolviendo problemas numéricos.
+9. Modulos de C a Python: _Wrapping_.
+10. Paralelización en Python: _Threads_ y `IPython.Parallel`.
 
 ## Evaluación
  
 El sistema de evaluación será del siguiente modo: 
 
-$asdaf$
+
 
 ## Referencias
 El material presentado en este repositorio esta basado en conocimiento propio, información encontrada en internet (referenciada en los notebooks) y los siguientes textos:
