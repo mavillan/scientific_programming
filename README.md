@@ -35,7 +35,7 @@ El sistema de evaluación será del siguiente modo:
 `nota final = 0.2 asistencia + 0.5 actividades en clases + 0.3 proyecto final`
 
 __Observaciones:__
-1. Las actividades en clases serán evaluadas en el rango de 0-3 del siguiente modo: `0`: No entrega, `1`: Entrega, `2`: Entrega pero no funciona del todo bien y '3': Entrega y funciona todo correctamente.
+1. Las actividades en clases serán evaluadas en el rango de 0-3 del siguiente modo: `0`: No entrega, `1`: Entrega, `2`: Entrega pero no funciona del todo bien y `3`: Entrega y funciona todo correctamente. Las soluciones deben ser subidas a un repositorio github.
 2. Los temas de proyectos se presentarán después de la 5ta sesión. Los alumnos tienen la posibilidad de proponer sus propios temas. __Los proyectos son individuales__.
 
 
