@@ -32,7 +32,7 @@ Este repositorio contiene el material (apuntes, notebook y códigos) de la asign
  
 El sistema de evaluación será del siguiente modo: 
 
-`nota final = 0.2 asistencia + 0.5 actividades en clases + 0.3 proyecto final`
+`nota final = 0.2 * asistencia + 0.5 * actividades en clases + 0.3 * proyecto final`
 
 __Observaciones:__
 1. Las actividades en clases serán evaluadas en el rango de 0-3 del siguiente modo: `0`: No entrega, `1`: Entrega, `2`: Entrega pero no funciona del todo bien y `3`: Entrega y funciona todo correctamente. Las soluciones deben ser subidas a un repositorio github.
@@ -42,5 +42,5 @@ __Observaciones:__
 ## Referencias
 El material presentado en este repositorio esta basado en conocimiento propio, información encontrada en internet (referenciada en los notebooks) y los siguientes textos:
 
-* [1] Learning IPython for Interactive Computing and Data Visualization, second edition. Cyrille Rossant.
+* [1][Learning IPython for Interactive Computing and Data Visualization, second edition. Cyrille Rossant.](www.google.cl)
 * [2] IPython Interactive Computing and Visualization Cookbook. Cyrille Rossant.
