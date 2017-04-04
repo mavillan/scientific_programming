@@ -16,7 +16,7 @@ Este repositorio contiene el material (apuntes, notebook y códigos) de la asign
 5. Crear soluciones eficientes a problemas científicos reales.
 6. Hacer interfaces en `Python` de bibliotecas en `C` (_Wrapping_).
 
-## Tópicos
+## Sesiones
 1. Introducción a Anaconda, GIT, Ipython y Jupyter Notebooks.
 2. Computación Numérica (1): Programación vectorizada, NumPy y NumExpr.
 3. Computación Numérica (2): NumPy y manipulación de arrays de gran tamaño.
@@ -25,13 +25,18 @@ Este repositorio contiene el material (apuntes, notebook y códigos) de la asign
 6. Acelerando Python con Cython: Escribiendo C en Python. 
 7. _Profiling_ de códigos y optimización.
 8. Aplicaciones: Resolviendo problemas numéricos.
-9. Modulos de C a Python: _Wrapping_.
-10. Paralelización en Python: _Threads_ y `IPython.Parallel`.
+9. (*) Paralelización en Python: _Threads_ y `IPython.Parallel`.  
+10. (*) Modulos de C a Python: _Wrapping_.
 
 ## Evaluación
  
 El sistema de evaluación será del siguiente modo: 
 
+`nota final = 0.2 asistencia + 0.5 actividades en clases + 0.3 proyecto final`
+
+__Observaciones:__
+1. Las actividades en clases serán evaluadas en el rango de 0-3 del siguiente modo: `0`: No entrega, `1`: Entrega, `2`: Entrega pero no funciona del todo bien y '3': Entrega y funciona todo correctamente.
+2. Los temas de proyectos se presentarán después de la 5ta sesión. Los alumnos tienen la posibilidad de proponer sus propios temas. __Los proyectos son individuales__.
 
 
 ## Referencias
