@@ -6,6 +6,7 @@ Este repositorio contiene el material (apuntes, notebook y códigos) de la asign
 * Manejo y conocimiento de los lenguages `Python` y `C`.
 * Conocimiento del paradigma de Orientación a objetos.
 * Manejo del algebra lineal.
+* Conocimiento básico de Sistemas Operativos y Sistemas Linux/Unix.
 * (_Recomendable_) Conocimiento básico de Ecuaciones Diferenciales.
 
 ## Objetivos de la asignatura
