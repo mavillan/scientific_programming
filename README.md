@@ -43,4 +43,4 @@ __Observaciones:__
 El material presentado en este repositorio esta basado en conocimiento propio, información encontrada en internet (referenciada en los notebooks) y los siguientes textos:
 
 * [1] [Learning IPython for Interactive Computing and Data Visualization, second edition. Cyrille Rossant.](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec)
-* [2] IPython Interactive Computing and Visualization Cookbook. Cyrille Rossant.
+* [2] [IPython Interactive Computing and Visualization Cookbook. Cyrille Rossant.](https://www.packtpub.com/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook)
