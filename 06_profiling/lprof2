@@ -1,0 +1,18 @@
+Timer unit: 1e-06 s
+
+Total time: 0.398152 s
+File: <ipython-input-42-af93b75f3bb8>
+Function: closest_centroid at line 1
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     1                                           def closest_centroid(points,centroids):
+     2                                               """returns an array containing the index to the nearest centroid for each point"""
+     3                                               # computation of distance matrix
+     4         1            5      5.0      0.0      m = points.shape[0]
+     5         1            1      1.0      0.0      n = centroids.shape[0]
+     6         1          226    226.0      0.1      D = np.zeros((m,n))
+     7     10001         6259      0.6      1.6      for i in range(m):
+     8     40000        33055      0.8      8.3          for j in range(n):
+     9     30000       358449     11.9     90.0              D[i,j] = np.sqrt( np.sum( (points[i]-centroids[j])**2 ) )
+    10         1          157    157.0      0.0      return np.argmin(D, axis=1)

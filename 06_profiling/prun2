@@ -1,0 +1,21 @@
+         1368 function calls in 0.045 seconds
+
+   Ordered by: cumulative time
+   List reduced from 21 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.045    0.045 <string>:2(<module>)
+        1    0.001    0.001    0.045    0.045 <ipython-input-51-27467b285d0a>:1(main_loop)
+       31    0.019    0.001    0.022    0.001 <ipython-input-57-55f62e6f8a48>:1(closest_centroid)
+       31    0.012    0.000    0.022    0.001 <ipython-input-47-a8bc1b8c3b4f>:1(move_centroids)
+       93    0.000    0.000    0.009    0.000 {method 'mean' of 'numpy.ndarray' objects}
+       93    0.001    0.000    0.009    0.000 _methods.py:53(_mean)
+      155    0.008    0.000    0.008    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+       31    0.000    0.000    0.003    0.000 fromnumeric.py:976(argmin)
+       31    0.003    0.000    0.003    0.000 {method 'argmin' of 'numpy.ndarray' objects}
+       31    0.000    0.000    0.000    0.000 fromnumeric.py:1743(sum)
+       93    0.000    0.000    0.000    0.000 _methods.py:43(_count_reduce_items)
+      124    0.000    0.000    0.000    0.000 {numpy.core.multiarray.array}
+       31    0.000    0.000    0.000    0.000 {method 'max' of 'numpy.ndarray' objects}
+      124    0.000    0.000    0.000    0.000 {method 'reshape' of 'numpy.ndarray' objects}
+       31    0.000    0.000    0.000    0.000 _methods.py:31(_sum)

@@ -1,0 +1,10 @@
+Filename: simulation.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+     6    497.5 MiB      0.0 MiB   def simulate(iterations, n=10000):
+     7    497.5 MiB      0.0 MiB       s = step(iterations, n)
+     8    497.5 MiB      0.0 MiB       x = np.cumsum(s, axis=0)
+     9    497.5 MiB      0.0 MiB       bins = np.arange(-30, 30, 1)
+    10    497.5 MiB      0.0 MiB       y = np.vstack([np.histogram(x[i,:], bins)[0] for i in range(iterations)])
+    11    497.5 MiB      0.0 MiB       return y

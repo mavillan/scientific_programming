@@ -1,0 +1,14 @@
+Timer unit: 1e-06 s
+
+Total time: 0.449523 s
+File: simulation.py
+Function: simulate at line 6
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     6                                           def simulate(iterations, n=10000):
+     7         1       162747 162747.0     36.2      s = step(iterations, n)
+     8         1        37074  37074.0      8.2      x = np.cumsum(s, axis=0)
+     9         1           17     17.0      0.0      bins = np.arange(-30, 30, 1)
+    10       501       249684    498.4     55.5      y = np.vstack([np.histogram(x[i,:], bins)[0] for i in range(iterations)])
+    11         1            1      1.0      0.0      return y
